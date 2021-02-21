@@ -1,4 +1,4 @@
-# XDEV
+# XDEV (work in progress)
 
 A developer friendly window manager
 
